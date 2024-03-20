@@ -1,4 +1,4 @@
-#Video Store Program
+# Video Store Program
 This project was done for a data structures and algorithms class. The guidlines were to develop a program that a small video store would use.
 It stores customers(name, phone number, movies owned, and number of movies owned) in a binary tree.
 It also stores movies(title, barcode, owner, avaliablility) in a binary tree. 
